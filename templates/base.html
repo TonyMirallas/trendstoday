@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <meta charset="UTF-8">
+    <title>{% block title %} {% endblock %}- TrendsToday</title>
+    {% endblock %}
+    <style>
+       
+       body{
+        background-color: black;
+       }
+
+        #title{
+            color: #d64161;
+            font-size: 3em;
+            margin-left: 50px;
+            text-decoration: none;
+        }
+        
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
+        }
+
+        li {
+            float: left;
+        }
+
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        li a:hover {
+            background-color: #111; 
+        }
+
+    </style>
+</head>
+<body>
+    <nav>
+        <a id="title" href="{{ url_for('index') }}">TrendsToday</a>
+    </nav>
+    <hr>
+
+    <ul>
+        <li><a class="active" href="#home">{{ date }}</a></li>
+    </ul>
+    <div>
+        {% block content %} {% endblock %}
+    </div>
+</body>
+</html>

@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block head %}
+  {{ super() }}
+  <style type="text/css">
+
+    .trend{
+        display: table;
+        width: 20%;
+        border: solid 1px;
+        border-radius: 10px;
+        background-color: #1a8cd85b;
+        text-align: center;
+        color: white;
+        margin: 1px auto;
+    }
+
+    .trend:hover{
+        background-color: #1a8cd8cb;
+    }
+
+    .trend a{
+        display: table-cell;
+        text-decoration: none;
+        color: white;
+    }
+
+    .file:hover{
+        box-shadow: 5px 5px rgb(224, 165, 218);
+        background-color: rgb(117, 57, 111);
+        transform: translateX(5px);
+    }
+
+    .file:active{
+        transform: translateX(5px) translateY(5px);        
+    }
+
+  </style>
+{% endblock %}
+
+{% block content %}
+    {% for trend in trends %}
+        <div class='trend'>
+            <a href="{{trend['src']}}" target="_blank">
+                <p>{{ trend['title'] }}</p>
+                <p>{{ trend['tweet'] }} tweets</p>
+                <p>{{ trend['category'] }}</p>
+            </a>
+        </div>
+    {% endfor %}
+{% endblock %}
