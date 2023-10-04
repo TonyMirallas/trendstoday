@@ -1851,3 +1851,550 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
 Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665566271310	geckodriver	INFO	Listening on 127.0.0.1:60069
+1665566271312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4DgysE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665566272043	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58137
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4DgysE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1665566273123	Marionette	INFO	Listening on port 44507
+DevTools listening on ws://localhost:58137/devtools/browser/20ae59fa-9a35-476e-bccd-3e3e62b0f710
+Read port: 44507
+1665566273230	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1665566285634	Marionette	INFO	Stopped listening on port 44507
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665590101897	geckodriver	INFO	Listening on 127.0.0.1:55867
+1665590102404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHhzQV3"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665590103144	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:57419
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHhzQV3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1665590104223	Marionette	INFO	Listening on port 41423
+DevTools listening on ws://localhost:57419/devtools/browser/26dc271f-cc75-419d-ba62-0368afb46aa3
+Read port: 41423
+1665590104325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1665590117007	Marionette	INFO	Stopped listening on port 41423
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665651604661	geckodriver	INFO	Listening on 127.0.0.1:59789
+1665651605169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUReRU2"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665651605901	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:58203
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUReRU2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1665651606971	Marionette	INFO	Listening on port 35375
+Read port: 35375
+1665651606984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:58203/devtools/browser/ad15307f-bd14-4e5e-ab29-1dd0bf9339b4
+1665651619252	Marionette	INFO	Stopped listening on port 35375
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1665696594230	geckodriver	INFO	Listening on 127.0.0.1:44333
+1665696594738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGsJMix"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665696595507	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:47975
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGsJMix/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1665696596556	Marionette	INFO	Listening on port 43459
+DevTools listening on ws://localhost:47975/devtools/browser/fe85c8c5-279d-42df-93a9-1fdc11520076
+Read port: 43459
+1665696596652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1665696609217	Marionette	INFO	Stopped listening on port 43459
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665738002945	geckodriver	INFO	Listening on 127.0.0.1:48245
+1665738003453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYrXrXB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665738004202	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:55671
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYrXrXB/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1665738005248	Marionette	INFO	Listening on port 35625
+Read port: 35625
+1665738005268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:55671/devtools/browser/250b4cfb-21b0-4b16-9f48-a4bd85696304
+1665738017581	Marionette	INFO	Stopped listening on port 35625
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PRemoteWorkerService::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665824403826	geckodriver	INFO	Listening on 127.0.0.1:60159
+1665824404333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSyqoSr"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665824405091	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:60201
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSyqoSr/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1665824406159	Marionette	INFO	Listening on port 37197
+Read port: 37197
+DevTools listening on ws://localhost:60201/devtools/browser/dcc7188b-96cd-47ea-a76c-c51b0274b5cd
+1665824406275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1665824418930	Marionette	INFO	Stopped listening on port 37197
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665910801842	geckodriver	INFO	Listening on 127.0.0.1:34321
+1665910802351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec5bcvV"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665910803111	Marionette	INFO	Marionette enabled
+1665910803113	Marionette	INFO	Listening on port 44511
+Read port: 44511
+WebDriver BiDi listening on ws://127.0.0.1:57813
+1665910803184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec5bcvV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57813/devtools/browser/a20abe23-61c5-4c35-bc2e-4ee38467a701
+1665910816268	Marionette	INFO	Stopped listening on port 44511
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.77b95e49.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665950668101	geckodriver	INFO	Listening on 127.0.0.1:38389
+1665950668608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37089" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQUpI2W"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665950669360	Marionette	INFO	Marionette enabled
+1665950669363	Marionette	INFO	Listening on port 35811
+Read port: 35811
+WebDriver BiDi listening on ws://127.0.0.1:37089
+1665950669478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQUpI2W/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:37089/devtools/browser/85d884ce-7ec6-4325-b945-521678049295
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1665950683247	Marionette	INFO	Stopped listening on port 35811
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.77b95e49.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1665997202613	geckodriver	INFO	Listening on 127.0.0.1:45281
+1665997203126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK4Psmh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1665997203904	Marionette	INFO	Marionette enabled
+1665997203907	Marionette	INFO	Listening on port 34831
+Read port: 34831
+WebDriver BiDi listening on ws://127.0.0.1:59313
+1665997203987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK4Psmh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:59313/devtools/browser/f9a78ab9-0ff8-4bd7-83e6-725e7296e813
+1665997217285	Marionette	INFO	Stopped listening on port 34831
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.77b95e49.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666083602108	geckodriver	INFO	Listening on 127.0.0.1:55937
+1666083602622	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHymn0L"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666083603390	Marionette	INFO	Marionette enabled
+1666083603394	Marionette	INFO	Listening on port 40865
+Read port: 40865
+WebDriver BiDi listening on ws://127.0.0.1:38971
+1666083603465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHymn0L/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38971/devtools/browser/95979c37-f247-4866-afcd-1fe7f24c9d9a
+1666083616786	Marionette	INFO	Stopped listening on port 40865
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.77b95e49.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666123201289	geckodriver	INFO	Listening on 127.0.0.1:60959
+1666123201796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqLTQNX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666123202530	Marionette	INFO	Marionette enabled
+1666123202533	Marionette	INFO	Listening on port 44419
+WebDriver BiDi listening on ws://127.0.0.1:41367
+Read port: 44419
+1666123202840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqLTQNX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:41367/devtools/browser/93648c6e-a549-48d7-acec-a3682ac34d57
+1666123216375	Marionette	INFO	Stopped listening on port 44419
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.77b95e49.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666170003885	geckodriver	INFO	Listening on 127.0.0.1:47383
+1666170004391	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoRx9IB"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666170005228	Marionette	INFO	Marionette enabled
+1666170005232	Marionette	INFO	Listening on port 36045
+Read port: 36045
+WebDriver BiDi listening on ws://127.0.0.1:49091
+1666170005349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoRx9IB/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:49091/devtools/browser/ebf4531f-e3f0-4164-8b74-bec5fefcb8a6
+1666170021012	Marionette	INFO	Stopped listening on port 36045
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.77b95e49.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666209600578	geckodriver	INFO	Listening on 127.0.0.1:59681
+1666209601086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5e64ho"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666209601821	Marionette	INFO	Marionette enabled
+1666209601824	Marionette	INFO	Listening on port 43753
+WebDriver BiDi listening on ws://127.0.0.1:56409
+Read port: 43753
+1666209602129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5e64ho/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56409/devtools/browser/2de8ddab-7a54-46e2-af35-c6b85ea71642
+1666209615947	Marionette	INFO	Stopped listening on port 43753
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.77b95e410.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666256406527	geckodriver	INFO	Listening on 127.0.0.1:47351
+1666256407038	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejiPZ0p"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666256407820	Marionette	INFO	Marionette enabled
+1666256407823	Marionette	INFO	Listening on port 43611
+Read port: 43611
+WebDriver BiDi listening on ws://127.0.0.1:47757
+1666256407900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejiPZ0p/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:47757/devtools/browser/ab876a8b-05fa-4333-a16d-57517c34e61a
+1666256421279	Marionette	INFO	Stopped listening on port 43611
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.77b95e49.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666296001203	geckodriver	INFO	Listening on 127.0.0.1:46797
+1666296001710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelWN508"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666296002485	Marionette	INFO	Marionette enabled
+1666296002488	Marionette	INFO	Listening on port 45203
+Read port: 45203
+WebDriver BiDi listening on ws://127.0.0.1:46111
+1666296002557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelWN508/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:46111/devtools/browser/f8d89e7f-4b03-42be-a838-4fa57fd359db
+1666296016058	Marionette	INFO	Stopped listening on port 45203
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.77b95e49.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666429201635	geckodriver	INFO	Listening on 127.0.0.1:50317
+1666429202149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemOfnIM"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666429202893	Marionette	INFO	Marionette enabled
+1666429202896	Marionette	INFO	Listening on port 41029
+WebDriver BiDi listening on ws://127.0.0.1:57823
+Read port: 41029
+1666429203057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemOfnIM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:57823/devtools/browser/0867d4f5-950c-47c2-a31f-e9e2c77cfeed
+1666429216274	Marionette	INFO	Stopped listening on port 41029
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.77b95e410.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666515604925	geckodriver	INFO	Listening on 127.0.0.1:43361
+1666515605432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEfz3mb"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666515606175	Marionette	INFO	Marionette enabled
+1666515606178	Marionette	INFO	Listening on port 45361
+WebDriver BiDi listening on ws://127.0.0.1:55959
+Read port: 45361
+1666515606381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEfz3mb/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:55959/devtools/browser/521981b7-68ed-4c1f-99bc-e3438490c6f4
+1666515619920	Marionette	INFO	Stopped listening on port 45361
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.77b95e410.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666602002976	geckodriver	INFO	Listening on 127.0.0.1:57909
+1666602003490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBYMZxy"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666602004258	Marionette	INFO	Marionette enabled
+1666602004261	Marionette	INFO	Listening on port 43531
+Read port: 43531
+WebDriver BiDi listening on ws://127.0.0.1:56339
+1666602004333	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBYMZxy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:56339/devtools/browser/a7d797fd-9250-4ed9-b1cf-451471443522
+1666602017908	Marionette	INFO	Stopped listening on port 43531
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.77b95e410.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666688402775	geckodriver	INFO	Listening on 127.0.0.1:36195
+1666688403289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKLCwWD"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666688404050	Marionette	INFO	Marionette enabled
+1666688404052	Marionette	INFO	Listening on port 44859
+Read port: 44859
+WebDriver BiDi listening on ws://127.0.0.1:34929
+1666688404123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKLCwWD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:34929/devtools/browser/26509950-b7bd-409d-947d-430bffeb173e
+1666688417485	Marionette	INFO	Stopped listening on port 44859
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.77b95e410.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666774804402	geckodriver	INFO	Listening on 127.0.0.1:57561
+1666774804916	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42891" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGe5E9w"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666774805679	Marionette	INFO	Marionette enabled
+1666774805682	Marionette	INFO	Listening on port 46121
+Read port: 46121
+WebDriver BiDi listening on ws://127.0.0.1:42891
+1666774805753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGe5E9w/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:42891/devtools/browser/35eabb00-eb04-49af-8ad6-3c4c922e89ba
+1666774819040	Marionette	INFO	Stopped listening on port 46121
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f6925eb10.js, line 82: TypeError: can't access dead object
+1666816810181	geckodriver	INFO	Listening on 127.0.0.1:34445
+1666816810688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefbF28T"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666816811423	Marionette	INFO	Marionette enabled
+1666816811426	Marionette	INFO	Listening on port 45171
+WebDriver BiDi listening on ws://127.0.0.1:39899
+Read port: 45171
+1666816811740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefbF28T/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:39899/devtools/browser/dc48cdb6-1fb2-4f8a-a12d-55fca9e07406
+1666816828502	Marionette	INFO	Stopped listening on port 45171
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f6925eb10.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666861618540	geckodriver	INFO	Listening on 127.0.0.1:47061
+1666861619054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev3Dija"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666861619804	Marionette	INFO	Marionette enabled
+1666861619807	Marionette	INFO	Listening on port 36747
+Read port: 36747
+WebDriver BiDi listening on ws://127.0.0.1:54619
+1666861619920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev3Dija/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:54619/devtools/browser/9251fc81-115d-4856-b302-b25df5228817
+1666861633004	Marionette	INFO	Stopped listening on port 36747
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f6925eb10.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1666948372957	geckodriver	INFO	Listening on 127.0.0.1:34535
+1666948373472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAFyewh"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1666948374232	Marionette	INFO	Marionette enabled
+1666948374235	Marionette	INFO	Listening on port 36181
+Read port: 36181
+WebDriver BiDi listening on ws://127.0.0.1:52727
+1666948374307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAFyewh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:52727/devtools/browser/86013839-7aab-4e8a-a487-c5f7e9adaaa8
+1666948387643	Marionette	INFO	Stopped listening on port 36181
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f6925eb9.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1667034003000	geckodriver	INFO	Listening on 127.0.0.1:51241
+1667034003515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOt8cFc"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667034004310	Marionette	INFO	Marionette enabled
+1667034004313	Marionette	INFO	Listening on port 39819
+Read port: 39819
+WebDriver BiDi listening on ws://127.0.0.1:58957
+1667034004391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOt8cFc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:58957/devtools/browser/3c388e24-aa1f-4936-9c2c-5875e72e717f
+1667034017447	Marionette	INFO	Stopped listening on port 39819
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f6925eb9.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1667383206138	geckodriver	INFO	Listening on 127.0.0.1:44773
+1667383206644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAg716z"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667383207414	Marionette	INFO	Marionette enabled
+1667383207417	Marionette	INFO	Listening on port 33609
+Read port: 33609
+WebDriver BiDi listening on ws://127.0.0.1:35271
+1667383207486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAg716z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35271/devtools/browser/590555f2-7ec5-403b-a66c-a2898637cb66
+1667383220736	Marionette	INFO	Stopped listening on port 33609
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f6925eb9.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1667469610422	geckodriver	INFO	Listening on 127.0.0.1:49125
+1667469610925	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNweR1I"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667469611665	Marionette	INFO	Marionette enabled
+1667469611668	Marionette	INFO	Listening on port 32819
+Read port: 32819
+WebDriver BiDi listening on ws://127.0.0.1:38659
+1667469611796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNweR1I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38659/devtools/browser/c541ea7c-98a3-452c-a98c-6721a0a839d8
+1667469624914	Marionette	INFO	Stopped listening on port 32819
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f6925eb9.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1667815206151	geckodriver	INFO	Listening on 127.0.0.1:48421
+1667815206664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAlFlGm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667815207427	Marionette	INFO	Marionette enabled
+1667815207430	Marionette	INFO	Listening on port 37083
+Read port: 37083
+WebDriver BiDi listening on ws://127.0.0.1:53143
+1667815207508	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAlFlGm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53143/devtools/browser/ea5adebf-be6f-4cb7-bb1b-67298c34cc7b
+1667815220931	Marionette	INFO	Stopped listening on port 37083
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f6925eb9.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1667901604039	geckodriver	INFO	Listening on 127.0.0.1:51207
+1667901604553	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMQtVlX"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1667901605313	Marionette	INFO	Marionette enabled
+1667901605315	Marionette	INFO	Listening on port 44161
+Read port: 44161
+WebDriver BiDi listening on ws://127.0.0.1:33945
+1667901605387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMQtVlX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33945/devtools/browser/5fe81d0d-e3a6-42e0-a958-61d0f8ed96e5
+1667901618422	Marionette	INFO	Stopped listening on port 44161
+JavaScript error: https://abs.twimg.com/responsive-web/client-web/vendor.f6925eb9.js, line 82: TypeError: can't access dead object
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo

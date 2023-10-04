@@ -1,4 +1,3 @@
-from cgi import test
 import time
 import schedule
 from scraping_twitter import twitter_scraping
@@ -10,6 +9,7 @@ schedule.every().day.at("22:00").do(twitter_scraping)
 
 while True:
     schedule.run_pending()
-    print("Its all good man...")
-    time.sleep(60*30)
-    # time.sleep(1)
+    today = time.strftime("%Y-%m-%d %H %M %S", time.localtime())
+    print("Its all good man... (" + today + ")")
+    # time.sleep(30)
+    time.sleep(1)
